@@ -33,7 +33,7 @@
 <img src="https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/main.png">
 
 ### When it's fill a attendace
-<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/manual.png">
+<img src="https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/manual.png">
 
 
 
@@ -42,13 +42,13 @@
 
 ###Recognize
 <img src="https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/report.png">
-<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/subject.png">
+<img src="https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/subject.png">
 
 ### Details
 <img src="https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/details.png">
 
 ### Report Generation After Recognition
-<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/report.jpg">
+<img src="https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/report.jpg">
 
 
 ### Notes
