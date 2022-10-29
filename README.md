@@ -30,7 +30,7 @@
 ### Screenshots
 
 ### Basic UI
-<img src=" https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/main.png">
+<img src="https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/main.png">
 
 ### When it's fill a attendace
 <img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/manual.png">
