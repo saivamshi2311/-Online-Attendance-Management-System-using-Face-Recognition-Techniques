@@ -41,7 +41,7 @@
 
 
 ###Recognize
-<img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/recognize.png">
+<img src="https://github.com/saivamshi2311/-Online-Attendance-Management-System-using-Face-Recognition-Techniques/blob/main/report.png">
 <img src="https://github.com/msaishravani/Attendance-Monitoring-System-Using-Image-Processing/blob/master/subject.png">
 
 ### Details
